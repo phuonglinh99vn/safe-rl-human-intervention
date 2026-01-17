@@ -1,6 +1,5 @@
 # Safety‑Aware Reinforcement Learning in Grid World
 
-> A portfolio project demonstrating reinforcement learning, risk modelling, and neural networks applied to safe decision‑making.
 
 This project combines **tabular Q‑learning** with a **supervised danger‑prediction model** to create an agent that learns to navigate a hazardous environment while reasoning about risk. The work mirrors real‑world problems such as autonomous navigation, healthcare decision support, and robotics safety.
 
