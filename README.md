@@ -6,7 +6,7 @@ This project combines **tabular Q‑learning** with a **supervised danger‑pred
 
 ---
 
-## 🚀 What This Project Demonstrates
+## What This Project Demonstrates
 
 * End‑to‑end RL workflow: environment → agent → evaluation
 * Experiment design & comparison of reward shaping
@@ -18,7 +18,7 @@ This project combines **tabular Q‑learning** with a **supervised danger‑pred
 
 ---
 
-## 🧩 Problem Overview
+## Problem Overview
 
 A 10×10 Grid World contains:
 
@@ -141,7 +141,7 @@ safety_shield.h5
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Double Q‑learning / SARSA comparison
 * Prioritized replay for rare hazards
