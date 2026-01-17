@@ -135,9 +135,9 @@ This mirrors techniques used in:
 
 ## ▶️ Run
 
-safe_rl_shield.ipynb
-complete_dataset.pkl
-safety_shield.h5
+* safe_rl_shield.ipynb
+* complete_dataset.pkl
+* safety_shield.h5
 
 ---
 
